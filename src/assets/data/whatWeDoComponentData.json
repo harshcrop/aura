@@ -1,18 +1,8 @@
 [
     {
-        "TechName":"Angular",
-        "image":"angular.svg",
-        "link":"https://angular.io/"
-    },
-    {
         "TechName":"Google Cloud Platform",
         "image":"gcp.svg",
         "link":"https://cloud.google.com/"
-    },
-    {
-        "TechName":"Android",
-        "image":"android.svg",
-        "link":"https://www.android.com/"
     },
     {
         "TechName":"Actions On Google",
@@ -28,5 +18,10 @@
         "TechName":"TensorFlow",
         "image":"tf.svg",
         "link":"https://www.tensorflow.org/"
+    },
+    {
+        "TechName":"Kubernetes",
+        "image":"kubernetes.svg",
+        "link":"https://kubernetes.io/"
     }
 ]

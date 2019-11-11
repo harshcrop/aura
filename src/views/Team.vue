@@ -43,7 +43,7 @@ import organizingTeam from '@/components/team/organizingTeam'
   export default {
     components: {
       coreTeam,
-      organizingTeam
+      //organizingTeam
     },
     data() {
       return {

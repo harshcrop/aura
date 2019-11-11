@@ -1,56 +1,29 @@
 [
     {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
+        "name":"Nikunj Thakkar",
+        "designation":"Organizer",
+        "twitter":"https://twitter.com/nikunjness",
+        "linkedin":"https://in.linkedin.com/in/nikunjness",
+        "github":"https://github.com/nikunjness",
+        "profileImage":"nikunj.jpg",
         "website":""
     },
     {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
+        "name":"Harsh Shah",
+        "designation":"Co-Organizer",
+        "twitter":"https://twitter.com/harshcrop",
+        "linkedin":"https://www.linkedin.com/in/harshcrop",
+        "github":"https://github.com/harshcrop",
+        "profileImage":"Harsh.png",
         "website":""
     },
     {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
+        "name":"Jigar Navadiya",
+        "designation":"Co-Organizer",
+        "twitter":"https://twitter.com/jbnavadiya",
+        "linkedin":"https://in.linkedin.com/in/jigarnavadiya",
+        "github":"https://github.com/JBNavadiya",
+        "profileImage":"jigar.jpg",
         "website":""
     }
 ]
