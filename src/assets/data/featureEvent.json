@@ -1,21 +1,21 @@
 {
     "FeatureEventName":"Google Cloud Community Day",
-    "EventImage":"imagenotfound.png",
+    "EventImage":"GCCD.png",
     "EventDate":{
         "Date":"7",
         "Month":"11",
         "Year":"2019"
     },
     "EventTime":{
-        "StartTime":"00:00 AM",
-        "EndTime":"00:00 PM"
+        "StartTime":"10:00 AM",
+        "EndTime":"05:00 PM"
     },
     "EventVenue":"announce soon",
     "EventVenueMapLink":"#",
-    "EventWebsite":"#",
-    "EventDescription":"More details comming soon",
-    "MeetupLink":"#",
-    "RegistrationLink":"#",
-    "FBEventPageURL":"#"
+    "EventWebsite":"gdgahmedabad.cloud",
+    "EventDescription":"we are hosting our annual event Google Cloud community Day on 7th December and welcome all passionate developers interested to know the power of Cloud and how they can use it.",
+    "MeetupLink":"https://www.meetup.com/gdgcloudahm/events/266550714/",
+    "RegistrationLink":"https://bit.ly/2CP4HGK",
+    "FBEventPageURL":"https://www.facebook.com/events/746662912519365/"
 }
 

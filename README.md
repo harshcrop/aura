@@ -14,7 +14,7 @@ Version: 1.0.6
 
 Aura is the website template that helps you to set GDG's Communities website with events, team and  management in a few minutes.
 
-The template is created by [GDG Jalandhar](https://meetup.com/GDG-Jalandhar/) team experience of running meetups.
+The template is created by [GDG Jalandhar](https://meetup.com/GDG-Jalandhar/) team experience of running meetups/events.
 
 ## Features
 | Feature | Description |
@@ -183,7 +183,8 @@ Awesome! Contributions of all kinds are greatly appreciated. To help smoothen th
 | GDG Gandhinagar |[View Now](https://gdggandhinagar.org/) |
 | GDG Craiova | [View Now](https://gdgcraiova.dev/) |
 | GDG Houston | [View Now](https://gdghoustontx.org/) |
-| GDG Cloud Ahmedabad |[View Now](https://gdgahmedabad.cloud/) |
+| GDG Cloud Ahmedabad | [View Now](https://gdgahmedabad.cloud/) |
+
 
 
 Project is published under the [MIT license](/LICENSE.md).  
