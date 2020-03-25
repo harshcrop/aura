@@ -100,7 +100,7 @@
                                             </v-layout>
                                         </v-img>
                                         </template>
-                                        <span class="google-font">GDG Cloud Ahmedabad</span>
+                                        <span class="google-font">GDG Jalandhar</span>
                                         </v-tooltip>
                                         </a>
                                     </v-card>

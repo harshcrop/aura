@@ -25,5 +25,15 @@
         "github":"https://github.com/JBNavadiya",
         "profileImage":"jigar.jpg",
         "website":""
+    },
+    {
+        "name":"Kartik Derasari",
+        "designation":"Event-Organizer",
+        "twitter":"https://twitter.com/kartik_derasari",
+        "linkedin":"https://www.linkedin.com/in/kartikderasari/",
+        "github":"https://github.com/kartikderasari",
+        "profileImage":"kartik.jpeg",
+        "website":""
     }
+      
 ]
