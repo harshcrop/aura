@@ -6,6 +6,7 @@
         "linkedin":"https://in.linkedin.com/in/nikunjness",
         "github":"https://github.com/nikunjness",
         "profileImage":"nikunj.jpg",
+        "instagram":"",
         "website":""
     },
     {
@@ -15,6 +16,7 @@
         "linkedin":"https://www.linkedin.com/in/harshcrop",
         "github":"https://github.com/harshcrop",
         "profileImage":"Harsh.png",
+        "instagram":"",
         "website":""
     },
     {
@@ -24,6 +26,17 @@
         "linkedin":"https://in.linkedin.com/in/jigarnavadiya",
         "github":"https://github.com/JBNavadiya",
         "profileImage":"jigar.jpg",
+        "instagram":"",
+        "website":""
+    },
+    {
+        "name":"Kartik Derasari",
+        "designation":"Co-Organizer",
+        "twitter":"https://twitter.com/kartik_derasari",
+        "instagram":"https://instagram.com/kartik_derasari",
+        "linkedin":"https://www.linkedin.com/in/kartikderasari",
+        "github":"https://github.com/kartikderasari",
+        "profileImage":"kartik.jpg",
         "website":""
     },
     {
